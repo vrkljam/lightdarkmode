@@ -1,0 +1,5 @@
+***for the scrolling behavior
+html {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
